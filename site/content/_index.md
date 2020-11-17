@@ -1,6 +1,6 @@
 ---
-title: HRK Project for Best Math Practice for Bright Young Students
-subtitle: Ace your exams, build confidence, and change the world!
+title: HRK Project
+subtitle: We help you build confidence, ace tests. and change the world.
 image: img/emc2_blakboard.jpg
 blurb:
   heading: Why HRK Project?
